@@ -319,6 +319,7 @@
                 if (!CheckIndex(idx)) throw new IndexOutOfRangeException(nameof(idx));
                 arr[idx] = default(T)!;
                 ShiftLeft(idx);
+                ptr--;
             }
             finally
             {
@@ -336,6 +337,7 @@
                 if (!CheckIndex(idx)) throw new IndexOutOfRangeException(nameof(idx));
                 arr[idx] = default(T)!;
                 ShiftLeft(idx);
+                ptr--;
             }
             finally
             {
@@ -695,7 +697,7 @@
         private void ShiftLeft(int idx)
         {
             if (ptr == 0 || capacity == 0) return;
-            for (int i = idx; i < capacity; i++)
+            for (int i = idx; i < ptr; i++)
             {
                 if (i == capacity - 1) { arr[capacity - 1] = default(T)!; break; }
                 arr[i] = arr[i + 1];
