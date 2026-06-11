@@ -533,7 +533,7 @@
                 ThrowIfDisposed();
                 if ((ptr == 0) || (capacity == 0)) return -1;
                 if (arg is null) throw new ArgumentNullException(nameof(arg));
-                for (int i = ptr - 1; i <= 0; i--)
+                for (int i = ptr - 1; i >= 0; i--)
                 {
                     if (arg.CompareTo(arr[i]) == 0) return i;
                 }
