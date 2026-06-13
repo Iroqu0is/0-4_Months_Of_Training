@@ -12,6 +12,7 @@
         void RemoveAt(int index);
         int RemoveAll(Func<T, bool>? condition, CancellationToken token);
 
+        void Fill(T? item, CancellationToken token);
         void Trim();
         void Reverse();
         void Sort();

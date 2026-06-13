@@ -1,6 +1,5 @@
 ﻿namespace ConsoleApp1
 {
-    public enum ActionInSalvatory : byte { Add, Remove, Reset }
     public class Salvatory<T> : IMyCollection<T>, ICollection<T>, ICollection, IEquatable<Salvatory<T>>, ICloneable where T : IComparable<T>, IEquatable<T>
     {
         private static int counter;
@@ -9,9 +8,7 @@
             counter = 0;
         }
 
-        public event EventHandler<Announcement>? notify;
-
-        private const bool ISREADONLY = false;
+        private const bool ISREADONLY = true;
         private const bool ISSINСHRONIZED = true;
 
         private readonly object stub;
@@ -53,18 +50,18 @@
         {
             stub = new object();
             id = Interlocked.Increment(ref counter);
-            var sourceArr = args.ToArray();
-            ptr = sourceArr.Length;
+            var prepareArray = args.ToArray();
+            ptr = prepareArray.Length;
             capacity = ptr;
             arr = new T[capacity];
-            Array.Copy(sourceArr, arr, ptr);
+            Array.Copy(prepareArray, arr, ptr);
             resizeCount = 0;
         }
 
         //-------------------------------------------------------------------------------------------------------------------------
         // эти методы описаны в моем кастомном интерфейсе IMyCollection<T>
 
-        public T? FindFirst(Func<T, bool>? condition = default, CancellationToken token = default)
+        public T? FindFirst(Func<T, bool>? condition, CancellationToken token = default)
         {
             lock (stub)
             {
@@ -142,7 +139,7 @@
             lock (stub)
             {
                 if (capacity == 0 || ptr == 0) return;
-                if (!CheckIndex(index)) throw new ArgumentOutOfRangeException(nameof(index));// здесь лучше выбросить исключение, я так думаю
+                if (CheckIndex(index)) throw new ArgumentOutOfRangeException(nameof(index));// здесь лучше выбросить исключение, я так думаю
                 arr[index] = default!;
                 ShiftLeft(index);
             }
@@ -185,12 +182,25 @@
                 Array.Sort(arr, 0, ptr);
             }
         }
-
         public void Trim()
         {
             lock (stub)
             {
+                if (capacity == 0 || ptr == 0) return;
                 Extender(ptr);
+            }
+        }
+        public void Fill(T? item, CancellationToken token = default)
+        {
+            lock (stub)
+            {
+                if (capacity == 0 || ptr == 0) return;
+                if (item is null) return;
+                token.ThrowIfCancellationRequested();
+                for (int i = 0; i < ptr; i++)
+                {
+                    arr[i] = item;
+                }
             }
         }
 
@@ -222,7 +232,6 @@
                 arr[ptr] = item;
                 ptr++;
             }
-            notify?.Invoke(this, new Announcement(ActionInSalvatory.Add));
         }
         public bool Remove(T? item)
         {
@@ -238,27 +247,6 @@
                     }
                 }
                 ShiftLeft(i);
-                notify?.Invoke(this, new Announcement(ActionInSalvatory.Remove));// не уверен что так можно
-                return false;
-            }
-        }
-        public bool Remove(T? item, CancellationToken token)
-        {
-            lock (stub)
-            {
-                if (capacity == 0 || ptr == 0 || item is null) return false;
-                int i = 0;
-                for (; i < ptr; i++)
-                {
-                    if ((i % 10000) == 0) token.ThrowIfCancellationRequested();
-                    if (arr[i].CompareTo(item) == 0)
-                    {
-                        arr[i] = default!;
-                        return true;
-                    }
-                }
-                ShiftLeft(i);
-                notify?.Invoke(this, new Announcement(ActionInSalvatory.Remove));// не уверен что так можно
                 return false;
             }
         }
@@ -287,27 +275,6 @@
                 return false;
             }
         }
-        public void Clear(CancellationToken token)// не знаю нужен такой метод или нет и как реализовать аварийную остановку при очистке, пусть пока так
-        {
-            lock (stub)
-            {
-                if (capacity == 0 || ptr == 0) return;
-                for (int i = 0; i < ptr; i++)
-                {
-                    if ((i % 10000) == 0 && token.IsCancellationRequested)
-                    {
-                        arr = Array.Empty<T>();
-                        ptr = 0;
-                        resizeCount = 0;
-                        return;
-                    }
-                    arr[i] = default!;
-                }
-                ptr = 0;
-                resizeCount = 0;
-            }
-            notify?.Invoke(this, new Announcement(ActionInSalvatory.Reset));
-        }
         public void Clear()
         {
             lock (stub)
@@ -320,7 +287,6 @@
                 ptr = 0;
                 resizeCount = 0;
             }
-            notify?.Invoke(this, new Announcement(ActionInSalvatory.Reset));
         }
 
         public IEnumerable<T> GetValues()
@@ -363,7 +329,7 @@
         }
         public object Clone()
         {
-            lock (stub) return new Salvatory<T>(this);
+            lock (stub) return new Salvatory<T>(this.GetValues());
         }
 
         private void ShiftLeft(int idx)
