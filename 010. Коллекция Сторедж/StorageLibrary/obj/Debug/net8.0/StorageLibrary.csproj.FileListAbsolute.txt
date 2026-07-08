@@ -1,0 +1,63 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\bin\Debug\net8.0\StorageLibrary.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\bin\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\bin\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\refint\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\StorageLibrary\obj\Debug\net8.0\ref\StorageLibrary.dll
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\bin\Debug\net8.0\StorageLibrary.deps.json
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\bin\Debug\net8.0\StorageLibrary.dll
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\bin\Debug\net8.0\StorageLibrary.pdb
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\bin\Debug\net8.0\ToolsLibrary.dll
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\bin\Debug\net8.0\ToolsLibrary.pdb
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.AssemblyReference.cache
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfoInputs.cache
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfo.cs
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.CoreCompileInputs.cache
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageL.2A26BCB6.Up2Date
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.dll
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\refint\StorageLibrary.dll
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\StorageLibrary.pdb
+D:\Documents\Учебные проекты C#\011. Набор коллекций и подготовка к EFCore\StorageLibrary\obj\Debug\net8.0\ref\StorageLibrary.dll
+C:\Users\Owner\Documents\StorageLibrary\bin\Debug\net8.0\StorageLibrary.deps.json
+C:\Users\Owner\Documents\StorageLibrary\bin\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\StorageLibrary\bin\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\StorageLibrary\bin\Debug\net8.0\ToolsLibrary.dll
+C:\Users\Owner\Documents\StorageLibrary\bin\Debug\net8.0\ToolsLibrary.pdb
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageL.2A26BCB6.Up2Date
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\refint\StorageLibrary.dll
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\StorageLibrary\obj\Debug\net8.0\ref\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\refint\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\bin\Debug\net8.0\StorageLibrary.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\bin\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\bin\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\012. Коллекция Сторедж (Новый итератор)\StorageLibrary\obj\Debug\net8.0\ref\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\refint\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\bin\Debug\net8.0\StorageLibrary.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\bin\Debug\net8.0\StorageLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\bin\Debug\net8.0\StorageLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\Коллекция Сторедж\StorageLibrary\obj\Debug\net8.0\ref\StorageLibrary.dll
