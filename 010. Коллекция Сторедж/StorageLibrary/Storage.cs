@@ -215,7 +215,7 @@ namespace StorageLibrary
             }
             finally { rw.ExitReadLock(); }
         }
-        public T? GetLast()
+        public T GetLast()
         {
             try
             {
