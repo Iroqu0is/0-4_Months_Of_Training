@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\bin\Debug\net9.0\CustomColection.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\bin\Debug\net9.0\CustomColection.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\bin\Debug\net9.0\CustomColection.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\refint\CustomColection.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\CustomColection.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Project\CustomColection\obj\Debug\net9.0\ref\CustomColection.dll
