@@ -1,0 +1,23 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\bin\Debug\net9.0\PersonalInfo.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\bin\Debug\net9.0\PersonalInfo.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\bin\Debug\net9.0\PersonalInfo.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\refint\PersonalInfo.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\PersonalInfo.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonalInfo\obj\Debug\net9.0\ref\PersonalInfo.dll
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\bin\Debug\net9.0\PersonalInfo.deps.json
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\bin\Debug\net9.0\PersonalInfo.dll
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\bin\Debug\net9.0\PersonalInfo.pdb
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.AssemblyInfoInputs.cache
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.AssemblyInfo.cs
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.csproj.CoreCompileInputs.cache
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.sourcelink.json
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.dll
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\refint\PersonalInfo.dll
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\PersonalInfo.pdb
+D:\Documents\My Repositories\0-4_Months_Of_Training\012. Новый вариант класса Person\PersonalInfo\obj\Debug\net9.0\ref\PersonalInfo.dll
