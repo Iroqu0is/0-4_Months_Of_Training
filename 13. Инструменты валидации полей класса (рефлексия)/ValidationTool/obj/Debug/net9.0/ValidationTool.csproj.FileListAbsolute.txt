@@ -1,0 +1,22 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\bin\Debug\net9.0\ValidationTool.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\bin\Debug\net9.0\ValidationTool.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\bin\Debug\net9.0\ValidationTool.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\refint\ValidationTool.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ValidationTool.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\ValidationTool\obj\Debug\net9.0\ref\ValidationTool.dll
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.dll
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\refint\ValidationTool.dll
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ValidationTool.pdb
+C:\Users\Owner\Desktop\ValidationTool\bin\Debug\net9.0\ValidationTool.deps.json
+C:\Users\Owner\Desktop\ValidationTool\bin\Debug\net9.0\ValidationTool.dll
+C:\Users\Owner\Desktop\ValidationTool\bin\Debug\net9.0\ValidationTool.pdb
+C:\Users\Owner\Desktop\ValidationTool\obj\Debug\net9.0\ref\ValidationTool.dll
