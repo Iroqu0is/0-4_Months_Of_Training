@@ -1,0 +1,11 @@
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\bin\Debug\net9.0\PersonLibrary.deps.json
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\bin\Debug\net9.0\PersonLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\bin\Debug\net9.0\PersonLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\refint\PersonLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\PersonLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2022\Projects\PersonLibrary\obj\Debug\net9.0\ref\PersonLibrary.dll
