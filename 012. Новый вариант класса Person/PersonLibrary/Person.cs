@@ -51,7 +51,7 @@
             if (ReferenceEquals(p1, p2)) return true;
             if (p1 is null || p2 is null) return false;
             if (string.Compare(p1.fn, p2.fn, StringComparison.CurrentCultureIgnoreCase) == 0 &&
-                string.Compare(p2.ln, p2.ln, StringComparison.CurrentCultureIgnoreCase) == 0 &&
+                string.Compare(p1.ln, p2.ln, StringComparison.CurrentCultureIgnoreCase) == 0 &&
                 p1.bd == p2.bd)
                 return true;
             return false;
